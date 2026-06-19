@@ -445,4 +445,3 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 - **Coursera Marketing Courses** - Offers courses on digital marketing, social media marketing, and more from top universities. [Visit Coursera](https://www.coursera.org/)
 - **Google Digital Garage** - Free online courses from Google on digital marketing, data and tech. [Visit Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage)
 - **[AI Marketing Glossary 2026](https://oneplacedigital.com/ai-marketing-glossary-2026/)** - A free, continuously updated glossary of 100+ AI marketing terms (GEO, AEO, agentic workflows, and prompt engineering for marketers).
-- - **[AI Marketing Glossary 2026](https://oneplacedigital.com/ai-marketing-glossary-2026/)** - A free, continuously updated glossary of 100+ AI marketing terms (GEO, AEO, agentic workflows, and prompt engineering for marketers).
